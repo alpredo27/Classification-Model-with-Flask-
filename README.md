@@ -5,7 +5,7 @@
 
 ### Details:
    #### Data Used: 
-   Bank Marketing Data Set c/o UCI Machine Learning Respository. You may access the data on this [link](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing#)
+   Bank Marketing Data Set c/o UCI Machine Learning Respository. You may access the data on this [link](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing#).
 
    #### Summary: 
    1. Created this simple Binary CLassification model to use **Flask** and **Pickle** libraries in deploying of machine learning model.
